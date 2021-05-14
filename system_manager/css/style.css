@@ -1,0 +1,19 @@
+@media only screen and (min-width:550px){
+    body{
+      margin: 0;
+    }
+    
+    #container{
+        margin: auto;
+        width: 500px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+     /* #weatherTable1{
+        width:500px;
+        height: auto;
+    } */
+}
